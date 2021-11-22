@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Jakqe/Jakqe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Olá! Eu sou a Jaqueline de Lima
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +9,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <a href="https://github.com/Jakqe">
+  <img height="145" src="https://github-readme-stats.vercel.app/api?username=Jakqe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakqe&layout=compact&langs_count=16&theme=dracula"/>
+</div>  
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+</div>
+
+##
+
+  
+![snake animation](https://github.com/Jakqe/Jakqe/blob/output/github-contribution-grid-snake.svg)
